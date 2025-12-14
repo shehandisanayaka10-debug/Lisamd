@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-const user = "PASIYA-MDv";
+const user = "Lisa-Md";
 const repo = "DATABASE";
 const branch = 'main';
 
@@ -18,7 +18,7 @@ async function start() {
     }
 
   } catch (error) {
-    console.error('❌ Error in start YASIYA-MD():', error.message);
+    console.error('❌ Error in start Lisa-Md():', error.message);
   }
 }
 
