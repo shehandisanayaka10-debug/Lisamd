@@ -7,7 +7,7 @@
 
 <!-- Animated Brand Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=80&lines=🚀+YASIYA+-+MD;Advanced+WhatsApp+Bot;⚡+Powerful+Automation;✨+Next+Generation+Tech" alt="Lisa-Md">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=80&lines=🚀+Lisa-+-+MD;Advanced+WhatsApp+Bot;⚡+Powerful+Automation;✨+Next+Generation+Tech" alt="Lisa-Md">
 </p>
 
 <!-- Professional Badge Collection -->
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 **What Makes YASIYA-MD Special?**
+## 🎯 **What Makes Lisa-Md Special?**
 
 <div align="center">
 <table width="100%">
@@ -121,7 +121,7 @@
 
 <!-- Call to Action Animation -->
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&height=40&lines=🎊+Over+10%2C000+Users+Trust+YASIYA-MD!+🎊;💫+Join+the+Revolution+Today!+💫;🚀+Deploy+Now+and+Experience+the+Magic!+🚀" alt="Success Stories">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&height=40&lines=🎊+Over+10%2C000+Users+Trust+Lisa-Md!+🎊;💫+Join+the+Revolution+Today!+💫;🚀+Deploy+Now+and+Experience+the+Magic!+🚀" alt="Success Stories">
 
 </div>
 
@@ -138,10 +138,10 @@
 <tr>
 <td align="center" width="50%">
 
-### 🌟 **Dark Yasiya**
+### 🌟 **Lesa-Md**
 *Founder & Chief Architect*
 
-<img src="https://github.com/DarkYasiyaNew.png" width="120" style="border-radius: 50%; border: 4px solid #667eea;">
+<img src="https://dbv5.pages.dev/song/IMG-20251214-WA0238.jpg" width="120" style="border-radius: 50%; border: 4px solid #667eea;">
 
 ```yaml
 Role: Visionary Leader
@@ -155,10 +155,10 @@ Passion: Revolutionary Solutions
 </td>
 <td align="center" width="50%">
 
-### ⭐ **Sadeepa Chamudith**
+### ⭐ **Cyber-Spex**
 *Co-Founder & Tech Lead*
 
-<img src="https://avatars.githubusercontent.com/u/192448037?v=4" width="120" style="border-radius: 50%; border: 4px solid #f093fb;">
+<img src="" width="120" style="border-radius: 50%; border: 4px solid #f093fb;">
 
 ```yaml
 Role: Technical Innovator
@@ -240,9 +240,9 @@ Passion: Cutting-edge Tech
 
 <div align="center">
 
-If YASIYA-MD has helped you, consider supporting our work:
+If Lisa-Md has helped you, consider supporting our work:
 
-<a href="https://github.com/DarkYasiyaNew/YASIYA-MD">
+<a href="https://dbv5.pages.dev/song/IMG-20251214-WA0238.jpg">
   <img src="https://img.shields.io/badge/⭐%20Star%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Star on GitHub">
 </a>
 <br><br>
@@ -263,7 +263,7 @@ If YASIYA-MD has helped you, consider supporting our work:
 
 <br>
 
-**© 2024 YASIYA-MD Team | Made with 💝 by passionate developers**
+**© 2024 Crash delta Team | Made with 💝 by passionate developers**
 
 <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love">
 <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Sri Lanka">
