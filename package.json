@@ -1,13 +1,13 @@
 {
-    "name": "yasiya-md",
+    "name": "Lisa-Md",
     "version": "1.1.0",
-    "description": "Yasiya-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
-    "author": "Dark Yasiya",
+    "description": "Lisa-Md is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
+    "author": "Lisa-Md",
     "license": "MIT",
     "scripts": {
-        "start": "pm2 start yasiya-md.js --deep-monitoring --attach --name yasiya-md",
-        "stop": "pm2 stop yasiya-md",
-        "restart": "pm2 restart yasiya-md && pm2 logs",
+        "start": "pm2 start Lisa-Md.js --deep-monitoring --attach --name Lisa-Md",
+        "stop": "pm2 stop Lisa-Md",
+        "restart": "pm2 restart Lisa-Md && pm2 logs",
         "stash": "git stash && git stash drop"
     },
     "dependencies": {
