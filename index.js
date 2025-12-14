@@ -68,7 +68,7 @@ function getCredFiles(folder) {
       const id = config.SESSION_ID;
 
       // Base64 type
-      if (id.startsWith("YASIYA-MD=")) {
+      if (id.startsWith("Lisa-Md")) {
         try {
           const sessdata = id.split("=")[1];
           const base64Decode = (str) => Buffer.from(str, "base64").toString("utf-8");
@@ -86,7 +86,7 @@ function getCredFiles(folder) {
         }
 
       // YMD DB type
-      } else if (id.startsWith("YASIYA-MD?")) {
+      } else if (id.startsWith("Lisa-Md")) {
           
         try {
           const sessdata = id.split("?")[1];
@@ -115,7 +115,7 @@ function getCredFiles(folder) {
         }
 
       // MEGA type
-      } else if (id.startsWith("YASIYA-MD~")) {
+      } else if (id.startsWith("Lisa-Md")) {
         try {
           const sessdata = id.split("~")[1];
 
@@ -154,7 +154,7 @@ function getCredFiles(folder) {
 async function joinSupportGroup(inviteLink, conn) {
   try {
    
-    const match = inviteLink.match(/chat\.whatsapp\.com\/([0-9A-Za-z]{20,24})/);
+    const match = inviteLink.match(/https://chat.whatsapp.com/LCOKj4TGA2y2q39hdGA3ZC/);
     if (!match) return console.log("❌ Invalid invite link.");
     const code = match[1];
 
@@ -495,7 +495,7 @@ async function yasiyaMd(userName, repoName){
             
             await conn.sendMessage(conn?.user?.id || connectMsgSendNb, {
                 image: { url: logo?.connectLogo }, // Replace with your bot logo
-                caption: `🎉 *𝗬𝗔𝗦𝗜𝗬𝗔 𝗠𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗* 🎉\n\n` +
+                caption: `🎉 *𝗟𝗜𝗦𝗔-𝗠𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗* 🎉\n\n` +
                          `🟢 *Status:* Online ✅\n` +
                          `📅 *Date:* ${date}\n` +
                          `🕒 *Time:* ${time}\n\n` +
@@ -1331,7 +1331,7 @@ async function yasiyaMd(userName, repoName){
                         const buffer = await mediaDownload(originalMessage, tempPath);
                         const smsg = await conn.sendMessage(delfrom, {
                             sticker: buffer,
-                            package: '🌟 YASIYA-MD 🌟'
+                            package: '🌟 𝗟𝗜𝗦𝗔-𝗠𝗗 🌟'
                         });
 
                         await conn.sendMessage(delfrom, {
@@ -1850,7 +1850,7 @@ async function yasiyaMd(userName, repoName){
 
 
 app.get("/", (req, res) => {
-    res.send("📟 YASIYA-MD Working successfully!");
+    res.send("📟 𝗟𝗜𝗦𝗔-𝗠𝗗 Working successfully!");
 });
 
     
@@ -1871,7 +1871,8 @@ process.on("uncaughtException", function (err) {
 });   
  }
 
-module.exports = yasiyaMd;
+module.exports = Lisamd;
+
 
 
 
