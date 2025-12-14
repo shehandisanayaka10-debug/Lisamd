@@ -3,11 +3,11 @@
 <!-- Hero Header with Gradient Background -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=YASIYA%20MD&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20WhatsApp%20Bot&descAlignY=51&descSize=20" />
 
-<img src="https://dbv5.pages.dev/song/IMG-20251214-WA0238.jpg" alt="YASIYA MD Logo" width="600" height="300" />
+<img src="https://dbv5.pages.dev/song/IMG-20251214-WA0238.jpg" alt="Lisa-Md Logo" width="600" height="300" />
 
 <!-- Animated Brand Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=80&lines=🚀+YASIYA+-+MD;Advanced+WhatsApp+Bot;⚡+Powerful+Automation;✨+Next+Generation+Tech" alt="YASIYA-MD Brand">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=80&lines=🚀+YASIYA+-+MD;Advanced+WhatsApp+Bot;⚡+Powerful+Automation;✨+Next+Generation+Tech" alt="Lisa-Md">
 </p>
 
 <!-- Professional Badge Collection -->
